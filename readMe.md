@@ -7,6 +7,6 @@
 
 <h3>Wave</h3>
 
-Something I did for fun one of the programes I made, its a game called Wave - *2015 July*
+Something I did for fun one of the first programmes I made, its a game called Wave - *2015 July*
 >Java
 
