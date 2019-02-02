@@ -1,0 +1,3 @@
+1::Star Wars::1977-05-25::George Lucas::Twentieth Century Fox::PG::It was okay::
+2::Jurassic Park::1994-06-11::Some Dude::Universal Pictures::PG-13::It was okay::
+3::Some Movie::1987-03-15::Some Other Guy::Backlot Tedium::R::blah blah blah::
