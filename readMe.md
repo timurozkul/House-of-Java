@@ -15,7 +15,7 @@ A DVD Library where one can add, remove, edit them through the console - *2015 N
 Something I did for fun one of the first programmes I made, its a game called Wave (Pics in dir) - *2015 July*
 >Java
 
-<h3>Wave</h3>
+<h3>Todo</h3>
 
 My first java app, its a simple todo app with a gui (Pics in dir) - *2015 June*
 >Java
